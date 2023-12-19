@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: black; }
+
+
+.mat-toolbar.mat-primary{
+    background-color: rgba(25, 24, 24, 0.571);
+    color: whitesmoke;
+}

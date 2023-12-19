@@ -1,0 +1,12 @@
+.example-card {
+    max-width: 400px;
+    background-color: black;
+  }
+  
+  .example-header-image {
+    background-size: cover;
+  }
+
+  h2{
+    color: white;
+  }
